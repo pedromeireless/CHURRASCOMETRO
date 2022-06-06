@@ -1,5 +1,5 @@
 <h1 align="center" color="yellow">CHURRASCOMETRO/BBQ Party Calculator</h1>
-<p align="center"><img src="https://github.com/pedromeireless/Churrascometro/blob/a785f5335234d589643886bd8b1a7cd20aefe642/images/churrasco.png" alt="My cool logo"/></p>
+<p align="center"><img src="https://github.com/pedromeireless/CHURRASCOMETRO/blob/1bf833a674ba0fb1ad64889181b6a489dce90793/images/churrasco.png" alt="My cool logo"/></p>
 <p align="center"><a href='www.linkedin.com/in/pedro-hc-meireles' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a></p><p align="center"><a href="mailto:pedrohcmeirelles@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' target='_blank'></a></p>
 
 (English Version at the end of the READMe)
@@ -8,7 +8,7 @@
 
 <p align="justify">Meu primeiro projeto, com a ideia advinda do curso de programação do Igor Oliveira. Trata-se de uma calculadora que pretende auxiliar as pessoas nas compras de alimentos e bebidas para o seu churrasco.</p>
 <p align="justify">Basta inserir a quantidade de homens, mulheres e a duração média do churrasco. O programa trará como resultado a quantidade de carne, bebidas alcoolicas e bebidas não alcoólicas. Ainda irei adicionar a opção de selecionar a quantidade de crianças e mais comidas como resultado, tais como frango, linguiça, pão de alho e etc.</p>
-<p align="center"><img src="https://github.com/pedromeireless/Churrascometro/blob/8741eccc0648c0b085426edcbe19ac15eb7de396/images/example.png" alt="My example"/></p>
+<p align="center"><img src="https://github.com/pedromeireless/CHURRASCOMETRO/blob/1bf833a674ba0fb1ad64889181b6a489dce90793/images/example.png" alt="My example"/></p>
 
 <h2>👨‍💻 TECNOLOGIA UTILIZADA</h2>
   
