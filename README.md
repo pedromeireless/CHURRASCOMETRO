@@ -20,7 +20,7 @@
 
 <p align="justify">My first project, originally idealized by Igor Oliveira in his programming course. It's about a barbecue calculator that will help you to improve your organization when going to buy foods and drinks, like beer and soda.</p>
 <p align="justify">You just have to insert the quantity of mens, women and the bbq duration. The programm will get as result the quantity of meat, alcooholic and non-alcooholic drinks. I'm working on develop some new options, like adding kids in the barbecue and getting other foods for the result, like chicken, sausage and burguers.</p>
-<p align="center"><img src="https://github.com/pedromeireless/Churrascometro/blob/8741eccc0648c0b085426edcbe19ac15eb7de396/images/example.png" alt="My example"/></p>
+<p align="center"><img src="https://github.com/pedromeireless/CHURRASCOMETRO/blob/1bf833a674ba0fb1ad64889181b6a489dce90793/images/example.png" alt="My example"/></p>
 
 <h2>👨‍💻 STACKS USED IN THE PROJECT</h2>
   
